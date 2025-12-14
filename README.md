@@ -66,34 +66,34 @@ To design, build, and test a complete sweet shop system showcasing:
 ### 🧠 Backend (API & Schema Screenshots)
 
 #### 📡 API Requests
-![API Requests](Screenshots/backend/API_Requests.png)
+![API Requests](Screenshots/backened/API_Requests.png)
 
 #### 🧾 Token Schema
-![Token Schema](Screenshots/backend/Token_Schema.png)
+![Token Schema](Screenshots/backened/Token_Schema.png)
 
 #### 👤 User Create Schema
-![User Create Schema](Screenshots/backend/UserCreate_Schema.png)
+![User Create Schema](Screenshots/backened/UserCreate_Schema.png)
 
 #### 🔑 User Login Schema
-![User Login Schema](Screenshots/backend/UserLogin_Schema.png)
+![User Login Schema](Screenshots/backened/UserLogin_Schema.png)
 
 #### 👥 User Output Schema
-![User Output Schema](Screenshots/backend/UserOut_Schema.png)
+![User Output Schema](Screenshots/backened/UserOut_Schema.png)
 
 #### 🍬 Sweet Base Schema
-![Sweet Base Schema](Screenshots/backend/SweetBase_Schema.png)
+![Sweet Base Schema](Screenshots/backened/SweetBase_Schema.png)
 
 #### 🍭 Sweet Response Schema
-![Sweet Response Schema](Screenshots/backend/SweetResponse_Schema.png)
+![Sweet Response Schema](Screenshots/backened/SweetResponse_Schema.png)
 
 #### ✏️ Sweet Update Response Schema
-![Sweet Update Response Schema](Screenshots/backend/SweetUpdateResponse_Schema.png)
+![Sweet Update Response Schema](Screenshots/backened/SweetUpdateResponse_Schema.png)
 
 #### ⚠️ Validation Error Schema
-![Validation Error Schema](Screenshots/backend/ValidationError_Schema.png)
+![Validation Error Schema](Screenshots/backened/ValidationError_Schema.png)
 
 #### ❌ HTTP Validation Error Schema
-![HTTP Validation Error](Screenshots/backend/HTTPValidationError_Schema.png)
+![HTTP Validation Error](Screenshots/backened/HTTPValidationError_Schema.png)
 
 ---
 
