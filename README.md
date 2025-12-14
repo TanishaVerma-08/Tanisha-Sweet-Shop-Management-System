@@ -132,15 +132,19 @@ To design, build, and test a complete sweet shop system showcasing:
 | POST | `/api/sweets/{id}/purchase` |
 | POST | `/api/sweets/{id}/restock` |
 
----
+## 🤖 My AI Usage
 
-## 🧪 Testing (TDD)
+During the development of this project, I used AI tools as **supporting aids** to improve productivity and maintain clarity, while ensuring full understanding and ownership of the final code.
 
-- Tests written before implementation
-- Red → Green → Refactor cycle
-- Unit & integration tests
-- Edge cases handled
+### 🔧 AI Tools Used
+- **ChatGPT**
+- **GitHub Copilot**
 
-```bash
-pytest
-```
+### 🛠️ How I Used AI
+- I used **ChatGPT** to brainstorm and refine REST API structures for the FastAPI backend, understand JWT-based authentication flows, and validate database schema designs using Pydantic. It was also helpful in improving documentation and structuring the README clearly.
+- I used **GitHub Copilot** to speed up repetitive tasks such as writing boilerplate code for FastAPI routes and schemas, and to assist with drafting unit.
+
+### 💡 Reflection on AI Impact
+Using AI made my development workflow faster and more efficient, especially during the initial setup and testing phases. It helped me focus more on application logic, edge cases, and overall system design rather than spending time on repetitive code.
+
+All AI-generated suggestions were carefully reviewed, adapted, and tested manually to ensure they aligned with project requirements and best practices. AI was used strictly as a **productivity enhancer**, not as a substitute for problem-solving or decision-making.
